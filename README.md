@@ -32,5 +32,5 @@ Para a realização e implementação integral dos serviços oferecidos pela emp
 
 ### Cronograma de macro-integras:
 - Prova de conceito (POC): A POC servirá para validar a arquitetura criada, expondo possíveis falhas e indicando possíveis mudanças antes de criarmos o MVP. Para a prova de conceito será necessário **3 dias e meio.**
-- Mínimo produto viável (MVP): Na MVP, teremos apenas os recursos mínimos, com suas funcionalidades básicas, sendo assim uma versão enxuta do Produto final. Para a criação do Mínimo produto viável será necessário** 3 dias e meio.**
+- Mínimo produto viável (MVP): Na MVP, teremos apenas os recursos mínimos, com suas funcionalidades básicas, sendo assim uma versão enxuta do Produto final. Para a criação do Mínimo produto viável será necessário **3 dias e meio.**
 - Produto final: O produto final será a implementação da arquitetura apresentada. Para construir a arquitetura apresentada, será necessário aproximadamente **uma semana.**
